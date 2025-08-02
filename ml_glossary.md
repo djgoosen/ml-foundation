@@ -6,7 +6,7 @@ Friendly note: A few vocabulary terms being bolded in definitions here may only 
 
 1. **anomaly detection**: an **unsupervised learning** task that looks for outliers in datasets. Commonly used for things like credit card fraud detection.
 
-1. **asynchronous advantage actor-critic (A3C)**: A reinforcement learning **algorithm** that trains multiple agents in parallel, each exploring independently, then merges their insights into a central policy. (Think: a swarm of scouts learning faster by exploring in different directions at once.)
+1. **asynchronous advantage actor-critic (A3C)**: A **reinforcement learning algorithm** that trains multiple agents in parallel, each exploring independently, then merges their insights into a central policy. (Think: a swarm of scouts learning faster by exploring in different directions at once.)
 
 1. **batch learning (compare to online learning)**: a way of learning from big amounts of data, but only once in a while. Done when the **model** you are applying it to is not actively being used.
 
